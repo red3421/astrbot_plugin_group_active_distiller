@@ -1,6 +1,7 @@
 # astrbot_plugin_group_active_distiller
 astrbot蒸馏群友+蒸馏自己插件
 此readme并非最新！
+蒸？蒸！还在蒸！想化身赛博生命？来试试这个 推荐接入各大llm api 本地效果也凑合
  群友主动蒸馏器 · AstrBot 插件
 
 > 主动扫描机器人所在的 QQ 群，抓取历史消息，分批次喂给 LLM，蒸馏出详细人设 /
