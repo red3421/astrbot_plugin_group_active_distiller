@@ -1,0 +1,2 @@
+# astrbot_plugin_group_active_distiller
+astrbot蒸馏群友+蒸馏自己插件
