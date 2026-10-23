@@ -1,4 +1,5 @@
-# astrbot_plugin_group_active_distiller灵感与参考来于https://github.com/Shawlei/astrbot_plugin_group_distiller
+# astrbot_plugin_group_active_distiller
+此项目灵感与参考来于https://github.com/Shawlei/astrbot_plugin_group_distiller 但其并未拥有主动拉旧 蒸馏自己 蒸馏私聊 只能干等所以出现本项目
 astrbot蒸馏群友+蒸馏自己插件
 此readme并非最新！
 蒸？蒸！还在蒸！想化身赛博生命？来试试这个 推荐接入各大llm api 本地效果也凑合
