@@ -14,7 +14,7 @@ astrbot蒸馏群友+蒸馏自己插件
 > 能采到的记录拉回来，全量分批蒸馏。
 
 - 插件 ID：`astrbot_plugin_group_active_distiller`
-- 版本：1.0.0 · 作者：yg
+- 版本：1.0.0 · 作者：red3421
 - 依赖：零第三方依赖（纯标准库 `sqlite3` / `asyncio` / `json` / `re`）
 
 ---
