@@ -25,7 +25,7 @@ help: |
     /蒸馏 投放 <QQ号>           把画像转成可直接用的 system prompt 文本
     /蒸馏 状态                 查看采集/蒸馏任务状态与用量
     /蒸馏 后台                 输出可视化蒸馏台地址
-version: 1.0.0
+version: 1.1.0
 author: red3421
 repo: ""
 tags:
